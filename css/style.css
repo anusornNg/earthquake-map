@@ -1,0 +1,32 @@
+/* Set the map height to container's height */
+#map {
+  height: 100%;
+}
+
+/* Make the webpage fill windows */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* InfoWindow decoration */
+.infoWindowContent {
+  /* Hyperlink Color */
+  /* Font Size */
+}
+.infoWindowContent a {
+  text-decoration: none;
+  color: #cc3366;
+}
+.infoWindowContent a:hover {
+  text-decoration: underline;
+}
+.infoWindowContent h4 {
+  font-size: 13pt;
+  margin: 0.5em 0 1em;
+}
+.infoWindowContent p {
+  font-size: 11pt;
+  margin: 0.5em 0;
+}/*# sourceMappingURL=style.css.map */

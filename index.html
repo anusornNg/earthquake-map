@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Earthquake Markers | Anusorn W.</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <script type="module" src="./js/app.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <!--
+      Map is deferred to load only when HTML document has been parsed.
+      When script is ready, it's gonna callback to initMap() function to continue working.
+    -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDM8Oxq3xiuU1PMzcR4T2GqQbYHv_X0i4g&callback=initMap&v=weekly" defer></script>
+  </body>
+</html>
