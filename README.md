@@ -1,6 +1,6 @@
 # Earthquake Map
 
-Earthquake API over Google Maps. For Primal.
+Earthquake API over Google Maps. For opportunities testing.
 
 This web page is to demonstrate Google Maps API with Custom Marker pins and info window on each pins
 
